@@ -1,0 +1,80 @@
+  .banner {
+            background: url('https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/r8114KN4ip5pxqaw/ramadan-kareem-islamic-background-moonrise-over-the-mosque-and-the-light-of-the-stars_snkapwzy_thumbnail-1080_02.png') no-repeat center center;
+            background-size: cover;
+            padding-top: 20%;
+            padding-bottom: 20%;
+            color: #fff;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+        }
+        .Lingkaran {
+            display: inline-block;
+            border-radius: 50%;
+            width: 150px;
+            margin: auto;
+            height: 150px;
+            color: #fff;
+            background-color:#28a7a1;
+        }
+        .Lingkaran i {
+            position: relative;
+            top: 30px;
+        }
+        .crop-img {
+    object-fit: cover;
+    width: 100%;
+        }
+        
+        .Tim {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border: 3px solid #28a7a1; /* Warna border sesuai tema hijau */
+}
+        a.social {
+            display: inline-block;
+            height: 40px;
+            width: 40px;
+            color: #fff;
+            border-radius: 50%;
+            background-color: #6c757d;
+            line-height: 40px;
+            margin: 0 5px;
+            transition: all 0.3s;
+        }
+        a.social:hover {
+            background-color: #28a7a1;
+            transform: scale(1.1);
+        }
+        
+        .Kontak {
+            background: url('https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/r8114KN4ip5pxqaw/ramadan-kareem-islamic-background-moonrise-over-the-mosque-and-the-light-of-the-stars_snkapwzy_thumbnail-1080_02.png') no-repeat center center;
+            background-size: cover;
+            padding-bottom: 20px;
+            padding-top: 20px;
+            color: #fff;
+            text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8);
+        }
+        .nav-link {
+            font-weight: 500;
+        }
+        .btn-paradise {
+            background-color: #28a7a1;
+            color: white;
+            border: none;
+        }
+        .btn-paradise:hover {
+            background-color: #28a7a1;
+            color: white;
+        }
+        .card {
+            transition: transform 0.3s;
+            margin-bottom: 20px;
+            border: none;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        .card:hover {
+            transform: translateY(-10px);
+        }
+        .card-body {
+            background-color: #f8f9fa;
+        }
